@@ -3,6 +3,17 @@
 # True, False
 
 # if, elif, else
+if True:
+    print("It's true")
+
+if False:
+    print("It's false")
+
+    num = 1
+    if num ==0:
+        print("It's 0!")
+    if num == 1:
+        print("It's 1!")
 
 # &(and)
 
