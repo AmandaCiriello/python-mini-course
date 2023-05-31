@@ -6,7 +6,7 @@
 
 #add/sub + -
 
-#multiply/divide * /
+#multiply * & divide /
 
 #exponentiation **
 

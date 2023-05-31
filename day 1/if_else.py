@@ -29,11 +29,11 @@ if num == 0:
 if num == 1:
     print("It's 1!")
 
-# &(and)
+# and
 
-# |(or)
+# or
 
-# ~(not)
+# not
 
 # comparision == !=
 
