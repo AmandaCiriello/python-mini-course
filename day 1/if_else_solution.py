@@ -22,9 +22,25 @@ else:
 
 # and
 
-# or
+# if True and False:
+#     ...
 
+
+# or
+# if True or False:
+#     print("True or False is True")
+# else:
+#     print("True or False is false")
 # not
+# print(not True)
+# print(not False)
+
+# color = "blue"
+
+# if color == "red" or color == "pink":
+#     print("It's reddish")
+# else:
+#     print("It's not reddish")
 
 # comparision == !=
 
