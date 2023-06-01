@@ -1,0 +1,10 @@
+= assignment //set
+== equality //compare & check if they are equal
+
+print("Statement") //will print Statement
+response = input("Enter: ") //will ask Enter: & save user input into response variable
+
+if True:
+  //will run
+if False:
+  //will not run
