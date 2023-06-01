@@ -3,23 +3,25 @@
 # True, False
 
 # if, elif, else
-if True:
-    print("It's true")
+num = 4
+print("I don't know what num is but it's not 1 or 0")
+# and
 
-if False:
-    print("It's false")
+if True and False:
 
-    num = 1
-    if num ==0:
+# or
+if True or False:
+    print("True or False is True")
+else:
+    print(    if num ==0:
         print("It's 0!")
     if num == 1:
         print("It's 1!")
-
-# and
-
-# or
+else:
+    "True or False is false")
 
 # not
+print(not False)
 
 # comparision == !=
 
