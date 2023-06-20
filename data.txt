@@ -1,0 +1,6 @@
+orange 4.12
+goldfish 50.50
+cookies 700
+chip 5.00
+chip 5.00
+chip 5.00
